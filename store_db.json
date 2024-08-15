@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Диван Атлас",
+        "price": 8900,
+        "image": "divanatlas.webp",
+        "description": "М'який та зручний диван для вашої кімнати."
+    },
+    {
+        "title": "Диван Найс",
+        "price": 7900,
+        "image": "divannice.webp",
+        "description": "Стильний та компактний диван з м'якими подушками."
+    },
+    {
+        "title": "Диван Келн",
+        "price": 8490,
+        "image": "divankeln.webp",
+        "description": "Дуже удобний диван, розкладається в ліжко"
+    }
+]
